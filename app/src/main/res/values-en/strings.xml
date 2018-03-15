@@ -5,7 +5,18 @@
     <string name="material">Material</string>
     <string name="dije">Pendant</string>
     <string name="tipo">Type</string>
-    <string name="cantidad">" Quantity"</string>
+    <string name="cantidad">Quantity</string>
     <string name="moneda">Currency</string>
     <string name="total">" Total to pay"</string>
+    <string name="error_numero1">"Enter a valid value "</string>
+    <string name="usd">USD</string>
+    <string name="pesos">Pesos</string>
+    <string name="niquel">" Nickel"</string>
+    <string name="plata">Silver</string>
+    <string name="oroRosado">Pink gold</string>
+    <string name="oro">Gold</string>
+    <string name="ancla">Anchor</string>
+    <string name="martillo">Hammer</string>
+    <string name="cuerda">Rope</string>
+    <string name="cuero">Leather</string>
 </resources>
