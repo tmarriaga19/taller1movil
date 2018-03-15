@@ -70,7 +70,7 @@ tools:context="com.tmarriaga.taller1movil.MainActivity">
             android:textSize="18sp" />
 
         <Spinner
-            android:id="@+id/cmdtipo"
+            android:id="@+id/cmbtipo"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1" />
@@ -124,12 +124,15 @@ tools:context="com.tmarriaga.taller1movil.MainActivity">
         android:id="@+id/btntotal"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:onClick="calcular"
         android:text="@string/total" />
 
     <TextView
         android:id="@+id/lblresultado"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="24sp" />
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:textStyle="bold" />
 
 </LinearLayout>

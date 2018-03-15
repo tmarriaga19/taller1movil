@@ -37,8 +37,8 @@
     <string name="usd">Usd</string>
     <string name="pesos">Pesos</string>
     <string-array name="listamoneda">
-        <item>@string/martillo</item>
-        <item>@string/ancla</item>
+        <item>@string/usd</item>
+        <item>@string/pesos</item>
     </string-array>
 
 </resources>
