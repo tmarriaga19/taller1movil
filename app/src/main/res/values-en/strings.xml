@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">taller1movil</string>
+    <string name="titulo">" Manillas Sale"</string>
+    <string name="material">Material</string>
+    <string name="dije">Pendant</string>
+    <string name="tipo">Type</string>
+    <string name="cantidad">" Quantity"</string>
+    <string name="moneda">Currency</string>
+    <string name="total">" Total to pay"</string>
+</resources>
